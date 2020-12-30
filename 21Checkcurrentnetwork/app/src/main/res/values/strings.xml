@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">21.Check current network</string>
+    <string name="title">檢查網路</string>
+    <string name="check">檢查目前網路</string>
+</resources>
